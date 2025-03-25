@@ -7,7 +7,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
 
 
 
@@ -20,6 +19,10 @@
 - [YOLOv12训练自己的数据集——利用Google Colab环境和Roboflow工具](https://blog.csdn.net/qq_60865111/article/details/145747523)
 - [《YOLOv12 - 注意力机制驱动的实时目标检测新篇章》——论文详解](https://blog.csdn.net/qq_60865111/article/details/145746015)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&row=2&column=3&show_icons=true&theme=radical&theme=juicyfresh)
 
 
 
