@@ -22,7 +22,7 @@
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=2&column=3&theme=juicyfresh)
+![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=1&column=5&theme=juicyfresh)
 
 
 
