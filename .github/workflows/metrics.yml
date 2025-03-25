@@ -29,4 +29,4 @@ jobs:
           user: BreCaspian
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: Europe/London
