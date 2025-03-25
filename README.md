@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BreCaspian&left_color=green&right_color=red)
+
+
+
 
 <!-- 基本Markdown -->
 ![Metrics](github-metrics.svg)
@@ -7,6 +11,13 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Brecaspian)
+
+
+![](https://stats.justsong.cn/api/leetcode?username=Brecaspian&cn=true)
 
 
 
@@ -26,6 +37,11 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
+
+
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brecaspian)
 
 
 
