@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 
+<!-- 基本Markdown -->
+![Metrics](github-metrics.svg)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
