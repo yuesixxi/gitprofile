@@ -4,6 +4,7 @@
 <!-- 基本Markdown -->
 ![Metrics](github-metrics.svg)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
