@@ -1,4 +1,22 @@
-## Welcome to Yaosir's GitHub! 👋
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" alt="Orange Book" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+</div>
+
+
+
+<h1 style="color: #FFA500;">Welcome to Yaosir's GitHub !</h1>
+
+
+
+
+
+
+
 
 
 
@@ -6,28 +24,23 @@
 
 
 
-<p align="center">
-Yaosir
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用心传递技术。&author=Yaosir"  />
+
+
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
+</div>
 
 
 
 
 
-![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark)](https://skillicons.dev)
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark&perline=5" />
-  </a>
-</p>
 
 
 
@@ -114,6 +127,21 @@ profile-3d-contrib/profile-gitblock.svg
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 小徽章
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark&perline=6" />
+  </a>
+</p>
+
+
+
+![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+ 👋 
 
 
 Here are some ideas to get you started:
