@@ -23,6 +23,9 @@
 
 
 
+
+
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   <!-- 上四部分 -->
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -45,14 +48,15 @@
     <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
     </a>
-    <a href="https://github.com/Naereen?tab=followers">
-      <img src="https://img.shields.io/github/followers/Brecaspian.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers">
+    <a href="https://blog.csdn.net/qq_60865111?type=blog">
+      <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
     </a>
   </div>
 </div>
 
 
-[![](https://img.shields.io/badge/Blog-@BreCaspian-orange.svg?style=plastic)]({https://blog.csdn.net/qq_60865111?type=blog})
+
+
 
 
 
