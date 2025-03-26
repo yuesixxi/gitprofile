@@ -6,8 +6,28 @@
 
 
 
+<p align="center">
+Yaosir
+</p>
 
 
+
+
+
+![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark)](https://skillicons.dev)
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark&perline=5" />
+  </a>
+</p>
 
 
 
