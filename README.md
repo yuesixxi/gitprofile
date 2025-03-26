@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BreCaspian&left_color=green&right_color=red)
+
+[![](https://img.shields.io/badge/Blog-@BreCaspian-orange.svg?style=plastic)]({https://blog.csdn.net/qq_60865111?type=blog})
 
 
-
-
-<!-- 基本Markdown -->
-![Metrics](github-metrics.svg)
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
@@ -14,10 +11,16 @@
 
 
 
+<!-- 基本Markdown -->
+![Metrics](github-metrics.svg)
+
+
+
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Brecaspian)
 
 
-![](https://stats.justsong.cn/api/leetcode?username=Brecaspian&cn=true)
+
 
 
 
@@ -86,6 +89,10 @@ profile-3d-contrib/profile-night-rainbow.svg
 profile-3d-contrib/profile-gitblock.svg
 样式：Git块主题
 特点：以GitHub风格的方块形式展示贡献，静态展示。
+
+
+
+![](https://stats.justsong.cn/api/leetcode?username=Brecaspian&cn=true)
 
 
 
