@@ -1,19 +1,19 @@
 <div align="center">
 
-  <!-- knock code pictures 敲代码的图片 -->
+  <!-- Knock Code Pictures -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
+  <!-- for beauty -->
   <div>&nbsp;</div>
 
 
 
 
-
+<!-- Dynamic Emojis -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
@@ -29,34 +29,33 @@
 </div>
 
 
-
+<!-- Welcome words -->
 <h1 style="color: #FFA500;">Welcome to Yaosir's GitHub ! 🍀</h1>
 
 
 
 
-
+<!-- World Peaceful words -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
 
 
 
 
-
-
-
-
-
+<!-- Moon Emoji -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=148)](https://moon-svg.minung.dev)
 
 
 
+
+
+<!-- Dynamic Skills Logo -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
 
 
 
 
-
+<!-- Little Logo -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   <!-- 上四部分 -->
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -88,18 +87,12 @@
 
 
 
-
-
-
-
-
-
-
+<!-- Motto -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用心传递技术。&author=Yaosir"  />
 
 
 
-
+<!-- Alien Emoji -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
 </div>
@@ -107,7 +100,7 @@
 
 
 
-
+<!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
 
 
@@ -115,18 +108,19 @@
 
 
 
-<!-- 基本Markdown -->
+<!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 
 
 
 
 
-
+<!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
 
 
 
+<!-- Blogs List -->
 # :orange_book: Latest Blog Posts :cactus:
 <!-- BLOG-POST-LIST:START -->
 - [一文详解Softmax与Sigmoid函数](https://blog.csdn.net/qq_60865111/article/details/146462079)
@@ -137,7 +131,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<!-- Award List -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 
 
@@ -157,7 +151,7 @@
 
 
 
-
+<!-- 3D Contribution -->
 ![GitHub 3D Contribution](https://raw.githubusercontent.com/BreCaspian/BreCaspian/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
