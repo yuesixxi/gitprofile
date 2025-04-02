@@ -123,11 +123,11 @@
 <!-- Blogs List -->
 # :orange_book: Latest Blog Posts :cactus:
 <!-- BLOG-POST-LIST:START -->
+- [一文详解MCP技术——MCP是什么，为什么重要 ？](https://blog.csdn.net/qq_60865111/article/details/146959240)
 - [一文详解Softmax与Sigmoid函数](https://blog.csdn.net/qq_60865111/article/details/146462079)
 - [如何快速评估模型改进后的整体性能效果](https://blog.csdn.net/qq_60865111/article/details/146263850)
 - [YOLOv12源码及模型权重——免费下载](https://blog.csdn.net/qq_60865111/article/details/145749175)
 - [YOLOv12训练自己的数据集——利用Google Colab环境和Roboflow工具](https://blog.csdn.net/qq_60865111/article/details/145747523)
-- [《YOLOv12 - 注意力机制驱动的实时目标检测新篇章》——论文详解](https://blog.csdn.net/qq_60865111/article/details/145746015)
 <!-- BLOG-POST-LIST:END -->
 
 
