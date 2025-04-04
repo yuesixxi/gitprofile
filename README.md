@@ -124,10 +124,10 @@
 # :orange_book: Latest Blog Posts :cactus:
 <!-- BLOG-POST-LIST:START -->
 - [如何将本地更改的README文件同步到自己的GitHub项目仓库](https://blog.csdn.net/qq_60865111/article/details/146991788)
+- [如何在 GitHub 上开源一个小项目：从创建到长期维护的完整指南](https://blog.csdn.net/qq_60865111/article/details/146991767)
 - [生成 SSH Key 并配置 GitHub/GitLab 详细教程](https://blog.csdn.net/qq_60865111/article/details/146991739)
 - [一文详解MCP技术——MCP是什么，为什么重要 ？](https://blog.csdn.net/qq_60865111/article/details/146959240)
 - [一文详解Softmax与Sigmoid函数](https://blog.csdn.net/qq_60865111/article/details/146462079)
-- [如何快速评估模型改进后的整体性能效果](https://blog.csdn.net/qq_60865111/article/details/146263850)
 <!-- BLOG-POST-LIST:END -->
 
 
