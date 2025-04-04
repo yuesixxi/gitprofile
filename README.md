@@ -123,11 +123,11 @@
 <!-- Blogs List -->
 # :orange_book: Latest Blog Posts :cactus:
 <!-- BLOG-POST-LIST:START -->
+- [Windows强制删除任何你想删除的文件和文件夹](https://blog.csdn.net/qq_60865111/article/details/147003366)
 - [开源且完全没有审核限制的大型语言模型的概述](https://blog.csdn.net/qq_60865111/article/details/147001840)
 - [Git 从入门到精通（开源协作特别版）](https://blog.csdn.net/qq_60865111/article/details/147001420)
 - [GitHub 上开源一个小项目的完整指南](https://blog.csdn.net/qq_60865111/article/details/147001329)
 - [使用GitHub Actions构建CI/CD流程](https://blog.csdn.net/qq_60865111/article/details/146995859)
-- [如何将本地更改的README文件同步到自己的GitHub项目仓库](https://blog.csdn.net/qq_60865111/article/details/146991788)
 <!-- BLOG-POST-LIST:END -->
 
 
