@@ -2,7 +2,7 @@
 
   <!-- Knock Code Pictures -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="600" alt="matrix animation"" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
@@ -30,7 +30,7 @@
 
 
 <!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Yaosir's GitHub ! 🍀</h1>
+<h1 style="color: #FFA500;">Welcome to yuesii's GitHub ! 🦦</h1>
 
 
 
