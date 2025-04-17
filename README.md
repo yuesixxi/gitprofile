@@ -90,29 +90,23 @@
 
 
 <!-- Alien Emoji -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
-</div>
 
 
 
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
-
-
 
 
 
 
 <!-- Stats Words -->
-![Metrics](github-metrics.svg)
+
 
 <!-- Stats Card -->
 
 
 <!-- Blogs List -->
-# :orange_book: Latest Blog Posts :cactus:
+# :orange_book: Latest Blog Posts ... | ᐕ)⁾⁾ ? :cactus:
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
