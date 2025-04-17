@@ -30,7 +30,7 @@
 
 
 <!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to yuesii's GitHub ! 🦦</h1>
+<h1 style="color: #FFA500;"> ˁ˙͡˟˙ˀ Welcome to yuesii's GitHub ! 🦦</h1>
 
 
 
