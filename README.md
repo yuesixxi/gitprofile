@@ -78,9 +78,6 @@
     <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
     </a>
-    <a href="https://blog.csdn.net/qq_60865111?type=blog">
-      <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
-    </a>
   </div>
 </div>
 
@@ -111,13 +108,7 @@
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 
-
-
-
-
 <!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
-
 
 
 <!-- Blogs List -->
@@ -133,16 +124,7 @@
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=BreCaspian&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BreCaspian&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BreCaspian&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
+
 
 
 
